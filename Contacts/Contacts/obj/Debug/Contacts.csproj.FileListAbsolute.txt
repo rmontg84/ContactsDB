@@ -1,0 +1,11 @@
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\bin\Debug\Contacts.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\bin\Debug\Contacts.pdb
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\obj\Debug\Contacts.csprojResolveAssemblyReference.cache
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\obj\Debug\Contacts.Form1.resources
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\obj\Debug\Contacts.exe
+c:\users\montgomr\documents\visual studio 2012\Projects\Training1\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\montgomr\Documents\Visual Studio 2012\Projects\Training1\Contacts\Contacts\bin\Debug\ContactDB.mdf
+C:\Users\montgomr\Documents\Visual Studio 2012\Projects\Training1\Contacts\Contacts\bin\Debug\ContactDB_log.ldf
+C:\Users\montgomr\Documents\Visual Studio 2012\Projects\Training1\Contacts\Contacts\bin\Debug\Contacts.exe.config
